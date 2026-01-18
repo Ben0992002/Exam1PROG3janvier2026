@@ -23,4 +23,4 @@ public class Player {
     public void setPosition(PlayerPositionEnum position) { this.position = position; }
     public Team getTeam() { return team; }
     public void setTeam(Team team) { this.team = team; }
-}
+    
